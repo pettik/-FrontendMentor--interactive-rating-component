@@ -17,7 +17,7 @@ My challenge was to build out this interactive rating component and get it looki
 I can use any tools I like to help me complete the challenge. So if I've got something I'd like to practice, feel free to give it a go.
 
 
-# LIVE SITE: ➡️https://pettik-interactive-rating-component.netlify.app/ ⬅️ 
+## LIVE SITE: ➡️https://pettik-interactive-rating-component.netlify.app/ ⬅️ 
 
 # Preview 🖥️⬇️
 
