@@ -21,4 +21,4 @@ I can use any tools I like to help me complete the challenge. So if I've got som
 
 # Preview 🖥️⬇️
 
-<img src="rating-app-preview.png" alt="rating preview">
+<img src="images/rating-app-preview.png" alt="rating preview">
