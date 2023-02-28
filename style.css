@@ -41,7 +41,11 @@ body {
 }
 
 .main_box img {
-  background-color: hsl(217, 21%, 22%);
+  background: linear-gradient(
+    359deg,
+    rgba(35, 40, 47, 1) 0%,
+    rgba(23, 30, 39, 1) 100%
+  );
   padding: 1rem;
   border-radius: 50%;
 }
